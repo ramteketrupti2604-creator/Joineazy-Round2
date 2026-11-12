@@ -89,6 +89,7 @@ npm run dev
 
 # 5. Build for production
 npm run build
+```
 
 ## 📁 Component Structure
 Joineazy-Round2/
@@ -114,6 +115,7 @@ Joineazy-Round2/
         ├── App.css           # Component Styles - Cards, Buttons
         ├── index.css         # Tailwind + Global Styles + Responsive
         └── assets/           # Images, Icons
+        ```
 
 App.jsx Flow:
 Login -> Check Role -> Professor Dashboard / Student Dashboard
