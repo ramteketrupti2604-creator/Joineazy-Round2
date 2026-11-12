@@ -5,7 +5,7 @@
 ## 🔗 Live Links
 - **Live Demo (Vercel):** https://frontend-lac-two-ja55r6cmro.vercel.app/
 - **GitHub Repo:** https://github.com/ramteketrupti2604-creator/Joineazy-Round2
-- **Demo Video:** [Paste Loom / Drive Link Here]
+- **Demo Video:**[ [Paste Loom / Drive Link Here]](https://www.loom.com/share/74b36afa22894feba357a2c417f024a1)
 
 ---
 
